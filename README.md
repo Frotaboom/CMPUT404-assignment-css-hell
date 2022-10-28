@@ -19,6 +19,9 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
-Code is licensed under the Apache 2.0 license.
+The good.html and bad.html files are copyright Tomas Peschke (C) 
+under the CC-BY-SA 4.0 unported license. Attribution should be a 
+hyperlink to the repository and (C) Tomas Peschke visible
 
+Code is licensed under the Apache 2.0 license.
 
