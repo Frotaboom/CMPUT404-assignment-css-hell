@@ -1,0 +1,16 @@
+body {
+    margin-top: 5em;
+    background-image: conic-gradient(rgb(255, 0, 102), rgb(238, 255, 0), rgb(45, 0, 128));
+    font-family:"Brush Script MT", Brush Script Std, cursive;
+    font-size: x-large;
+}
+
+h1, h2 {
+    color: red;
+    font-size: small;
+    font-family: "Brush Script MT", Brush Script Std, cursive;
+}
+
+li {
+    color:red;
+}

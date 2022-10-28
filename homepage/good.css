@@ -1,0 +1,42 @@
+body {
+    margin-top: 5em;
+    background-image: radial-gradient(rgb(50, 50, 50),rgb(5, 5, 5));
+    font-family:"Times New Roman", Times, serif;
+    font-size: x-large;
+}
+
+h1, h2 {
+    color: rgb(240, 240, 240);
+    font-family:"Arial", sans-serif;
+    font-weight: bolder;
+}
+
+li {
+    color:rgb(240, 240, 240);
+}
+.sidebar{
+    height: 100%;
+    width: 10em;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(rgb(150, 150, 150),rgb(120, 120, 120));
+}
+
+.content {
+    margin-left: 15em;
+    display: block;
+}
+
+.sidebar a {
+    padding: 1em 1em 1em 1em;
+    display: block;
+    text-decoration: none;
+    color:white;
+    text-align: center;
+}
+
+.abilities {
+    font-size: xx-large;
+}
